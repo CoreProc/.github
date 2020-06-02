@@ -1,0 +1,7 @@
+branchName: '${issue.number}-${issue.title}'
+autoCloseIssue: true
+branches:
+  - label: master
+    name: master
+  - label: develop
+    name: develop
