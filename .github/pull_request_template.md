@@ -1,17 +1,17 @@
 Fixes # .
 
-### What changed?
+**What changed?**
 
 
 
-### How can it be tested?
+**How can it be tested?**
 
 
 
-### What are possible test scenarios?
+**What are possible test scenarios?**
 
 
 
-### Add notable screenshots here for easier review
+**Add notable screenshots here for easier review**
 
 
