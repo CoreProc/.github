@@ -5,3 +5,5 @@ branches:
     name: master
   - label: develop
     name: develop
+  - label: beep-dev
+    name: dev
