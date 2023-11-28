@@ -1,9 +1,12 @@
-branchName: '${issue.number}-${issue.title}'
+branchName: '${issue.number}-${issue.title,}'
+gitSafeReplacementChar: '-'
 autoCloseIssue: true
 branches:
-  - label: master
-    name: master
-  - label: develop
-    name: develop
-  - label: beep-dev
-    name: dev
+  - label: enhancement
+    prefix: feature/
+  - label: bug
+    prefix: bugfix/
+  - label: release
+    prefix: release/
+  - label: hotfix
+    prefix: hotfix/
